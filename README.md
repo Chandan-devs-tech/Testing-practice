@@ -1,2 +1,2 @@
 # Testing-practice
-Write unit tests for a JavaScript app. Use AAA pattern for unit tests. Explain why testing code is important.
+### Use unit tests for a JavaScript app and AAA pattern for unit tests. Explained why testing code is important?
